@@ -1,10 +1,7 @@
 # Ostro
 Ostro Project
 
-xe1gyq@jessie:~/Downloads$ mv ostro
-ostro/
-ostro-image-dev-edison.toflash.tar.bz2
-ostro-image-edison-2016-03-02_09-51-12-build-399.toflash.tar.bz2
+xe1gyq@jessie:~/Downloads$ mv ostro-image-dev-edison.toflash.tar.bz2 ostro
 xe1gyq@jessie:~/Downloads$ mv ostro-image-* ostro/
 xe1gyq@jessie:~/Downloads$ cd ostro/
 xe1gyq@jessie:~/Downloads/ostro$ ls
