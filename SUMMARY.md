@@ -4,7 +4,7 @@
 * [Introduction](documentation/Introduction.md)
 * [Quick Start Guide](documentation/QuickStartGuide.md)
    * [Building](documentation/Building.md)
+   * [Running](documentation/Running.md)
    * Temp
-* [Running](documentation/Running.md)
 * Supported Platforms
 
