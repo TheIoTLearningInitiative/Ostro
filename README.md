@@ -65,7 +65,7 @@ toFlash/flashall.sh
 xe1gyq@jessie:~/Downloads/ostro$ cd toFlash/
 ```
 
-## Flashing
+## Flashing, Host Side
 
 ```sh
 xe1gyq@jessie:~/Downloads/ostro/toFlash$ ./flashall.sh 
