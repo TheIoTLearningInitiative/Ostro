@@ -1,4 +1,6 @@
-# Downloading
+
+Downloading
+==
 
 ## Downloading a Pre-Built Ostro OS Image
 
