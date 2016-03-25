@@ -75,6 +75,17 @@ and doc/howtos/building-images.rst.
 
 Summary: There was 1 ERROR message shown, returning a non-zero exit code.
 ```
+```sh
+xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
+NOTE: Your conf/bblayers.conf has been automatically updated.
+ERROR:  OE-core's config sanity checker detected a potential misconfiguration.
+    Either fix the cause of this error or at your own risk disable the checker (see sanity.conf).
+    Following is the list of potential problems / advisories:
+
+    libsdl-native is set to be ASSUME_PROVIDED but sdl-config can't be found in PATH. Please either install it, or configure qemu not to require sdl.
+
+Summary: There was 1 ERROR message shown, returning a non-zero exit code.
+```
 
 ```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image
