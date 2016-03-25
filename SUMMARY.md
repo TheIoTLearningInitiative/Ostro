@@ -7,6 +7,6 @@
    * [Building](documentation/Building.md)
    * [Running](documentation/Running.md)
    * Temp
-* Supported Platforms
+* [Supported Platforms](SupportedPlatforms.md)
 * [Architecture](documentation/Architecture.md)
 
