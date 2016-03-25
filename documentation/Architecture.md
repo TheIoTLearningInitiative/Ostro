@@ -41,5 +41,4 @@ OSTRO_LAYERS += "/home/xe1gyq/ostro/ostro-os/meta-soletta"
 
 ```
 
-{% include "documentation/Running.md" %}
 
