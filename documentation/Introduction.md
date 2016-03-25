@@ -1,6 +1,9 @@
 Introduction
 ==
 
+> The Ostro™ OS is a scalable open source operating system tailored specifically for IoT smart devices. Out of the box, we provide an OS developer image ready to install on a USB stick or SD card, boot, and then use to learn about the Ostro OS. With this developer image you can build and test applications written for the Ostro OS, and then later build a clean production image for deploying on your devices.
+
+
 ## Downloading a Pre-Built Ostro OS Image
 
 ```sh
