@@ -65,7 +65,7 @@ toFlash/flashall.sh
 xe1gyq@jessie:~/Downloads/ostro$ cd toFlash/
 ```
 
-## Booting and Installing an Ostro™ OS Image, Host Side
+## Booting and Installing an Ostro™ OS Image, Intel Edison, Host Side
 
 ```sh
 xe1gyq@jessie:~/Downloads/ostro/toFlash$ ./flashall.sh 
@@ -134,7 +134,7 @@ Starting kernel ...
 [    1.571988] pmic_ccsm pmic_ccsm: Battery0 temperature inside boundary
 ```
 
-## Flashing, Device Side
+## Booting and Installing an Ostro™ OS Image, Intel Edison, Device Side
 
 ```sh
 
