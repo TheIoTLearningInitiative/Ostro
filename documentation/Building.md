@@ -11,5 +11,5 @@ remote: Total 373987 (delta 401), reused 129 (delta 129), pack-reused 373219
 Receiving objects: 100% (373987/373987), 135.33 MiB | 185.00 KiB/s, done.
 Resolving deltas: 100% (241720/241720), done.
 Checking connectivity... done.
-
+xe1gyq@jessie:~/ostro$ 
 ```
