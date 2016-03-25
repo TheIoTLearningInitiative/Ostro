@@ -21,7 +21,7 @@ Supported Platforms
 - [Ostro Articles](https://ostroproject.org/documentation/howtos/howtos.html)
 - [Ostro Getting Started](https://ostroproject.org/documentation/quick_start/quick_start.html)
 
-Sections
+Sections All Documentation
 
 - Introduction to the Ostro™ Project
 - Ostro™ OS Supported Platforms
