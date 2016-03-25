@@ -64,8 +64,7 @@ MACHINE ?= "edison"
 ...
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
 ```
-
-The following issue is fixed by #DISTRO ?= "ostro"
+### Issues
 
 ```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
@@ -76,6 +75,12 @@ and doc/howtos/building-images.rst.
 Summary: There was 1 ERROR message shown, returning a non-zero exit code.
 ```
 
+Fixed by commenting line below under __conf/local.conf__
+
+```sh
+xe1gyq@jessie:~/ostro/ostro-os/build$ nano conf/local.conf
+#DISTRO ?= "ostro"
+```
 The following issue is fixed by
 
 ```
