@@ -52,6 +52,11 @@ xe1gyq@jessie:~/ostro/ostro-os/build$ nano conf/local.conf
 MACHINE ?= "edison"
 ...
 #DISTRO ?= "ostro"
+...
+#PACKAGECONFIG_append_pn-qemu-native = " sdl"
+#PACKAGECONFIG_append_pn-nativesdk-qemu = " sdl"
+#ASSUME_PROVIDED += "libsdl-native"
+
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
 
 ```
