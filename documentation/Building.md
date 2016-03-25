@@ -53,3 +53,17 @@ MACHINE ?= "edison"
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
 
 ```
+
+Base Images
+ostro-image.bb is the image recipe used by the Ostro project. It uses image features (configured via IMAGE_FEATURES) to control the content and the image configuration.
+
+Internally, several virtual image variants are created from that base recipe. They differ in the set of image features added or removed from the base recipe:
+
+> ostro-image
+> > The default image. Contains all programming runtimes
+
+> ostro-image-dev
+> > The same as ostro-image, plus build and debugging tools
+
+> ostro-image-minimal
+> > A smaller image which still has the core OS, but none of the optional runtimes.
