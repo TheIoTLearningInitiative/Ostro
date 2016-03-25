@@ -83,6 +83,21 @@ Missing or unbuildable dependency chain was: ['ostro-image-dev', 'packagegroup-s
 Summary: There were 2 ERROR messages shown, returning a non-zero exit code.
 ```
 
+```sh
+|  Adding system startup for /home/xe1gyq/ostro/ostro-os/build/tmp-glibc/work/edison-oe-linux/sysvinit/2.88dsf-r14/image/etc/init.d/bootlogd.
+|  Adding system startup for /home/xe1gyq/ostro/ostro-os/build/tmp-glibc/work/edison-oe-linux/sysvinit/2.88dsf-r14/image/etc/init.d/stop-bootlogd.
+| chown: invalid user: 'root.shutdown'
+| WARNING: exit code 1 from a shell command.
+| ERROR: Function failed: do_install (log file is located at /home/xe1gyq/ostro/ostro-os/build/tmp-glibc/work/edison-oe-linux/sysvinit/2.88dsf-r14/temp/log.do_install.13864)
+ERROR: Task 696 (/home/xe1gyq/ostro/ostro-os/meta/recipes-core/sysvinit/sysvinit_2.88dsf.bb, do_install) failed with exit code '1'
+NOTE: Tasks Summary: Attempted 1210 tasks of which 1205 didn't need to be rerun and 1 failed.
+Waiting for 0 running tasks to finish:
+
+Summary: 1 task failed:
+  /home/xe1gyq/ostro/ostro-os/meta/recipes-core/sysvinit/sysvinit_2.88dsf.bb, do_install
+Summary: There was 1 ERROR message shown, returning a non-zero exit code.
+```
+
 ### Base Images
 
 > ostro-image
