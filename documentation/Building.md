@@ -46,5 +46,4 @@ We recommend to use VirtualBox if you wish to run an Ostro image in a
 virtual environment. Please check the doc/howtos/booting-and-installation.rst
 technical note for more information.
 xe1gyq@jessie:~/ostro/ostro-os/build$ 
-
 ```
