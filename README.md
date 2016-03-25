@@ -1,5 +1,4 @@
 # Ostro
-Ostro Project
 
 ## Download
 
