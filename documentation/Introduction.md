@@ -6,12 +6,20 @@ Introduction
 
 - [Ostro Project Homepage](https://ostroproject.org/)
 
+Supported Platforms
+
+- Beaglebone
+- Intel Edison
+- Intel Core i7-64
+- Intel Quark
 
 ## Ostro Documentation
 
 > These technical documents and architecture guides help you learn more about the Ostro OS and how to use it to create and deploy IoT applications.
 
 - [Ostro All Documentation](https://ostroproject.org/documentation/)
+- [Ostro Articles](https://ostroproject.org/documentation/howtos/howtos.html)
+- [Ostro Getting Started](https://ostroproject.org/documentation/quick_start/quick_start.html)
 
 ## Downloading a Pre-Built Ostro OS Image
 
