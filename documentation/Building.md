@@ -61,7 +61,23 @@ MACHINE ?= "edison"
 #ASSUME_PROVIDED += "libsdl-native"
 ...
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
+```
 
+```sh
+xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
+Loading cache: 100% |#####################################################################################| ETA:  00:00:00
+Loaded 2579 entries from dependency cache.
+NOTE: Resolving any missing task queue dependencies
+ERROR: Nothing RPROVIDES 'clr-systemd-config' (but /home/xe1gyq/ostro/ostro-os/meta-ostro/recipes-swupd/packagegroups/packagegroup-swupd.bb RDEPENDS on or otherwise requires it)
+ERROR: clr-systemd-config was skipped: missing required distro feature 'systemd' (not in DISTRO_FEATURES)
+NOTE: Runtime target 'clr-systemd-config' is unbuildable, removing...
+Missing or unbuildable dependency chain was: ['clr-systemd-config']
+NOTE: Runtime target 'packagegroup-swupd' is unbuildable, removing...
+Missing or unbuildable dependency chain was: ['packagegroup-swupd', 'clr-systemd-config']
+ERROR: Required build target 'ostro-image-dev' has no buildable providers.
+Missing or unbuildable dependency chain was: ['ostro-image-dev', 'packagegroup-swupd', 'clr-systemd-config']
+
+Summary: There were 2 ERROR messages shown, returning a non-zero exit code.
 ```
 
 ### Base Images
