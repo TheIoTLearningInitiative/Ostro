@@ -61,4 +61,8 @@ toFlash/FlashEdison.json
 toFlash/flashall.bat
 toFlash/flashall.sh
 xe1gyq@jessie:~/Downloads/ostro$ cd toFlash/
+xe1gyq@jessie:~/Downloads/ostro$ ./toFlash/^C
+xe1gyq@jessie:~/Downloads/ostro$ cd toFlash/
+xe1gyq@jessie:~/Downloads/ostro/toFlash$ ./flashall.sh 
+
 ```
