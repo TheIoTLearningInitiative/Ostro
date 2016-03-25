@@ -141,14 +141,3 @@ Summary: 1 task failed:
   /home/xe1gyq/ostro/ostro-os/meta/recipes-core/sysvinit/sysvinit_2.88dsf.bb, do_install
 Summary: There was 1 ERROR message shown, returning a non-zero exit code.
 ```
-
-### Base Images
-
-> ostro-image
-> > The default image. Contains all programming runtimes
-
-> ostro-image-dev
-> > The same as ostro-image, plus build and debugging tools
-
-> ostro-image-minimal
-> > A smaller image which still has the core OS, but none of the optional runtimes
