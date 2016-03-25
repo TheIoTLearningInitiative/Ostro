@@ -133,3 +133,5 @@ Starting kernel ...
 [    1.571908] pmic_ccsm pmic_ccsm: Battery Over heat exception
 [    1.571988] pmic_ccsm pmic_ccsm: Battery0 temperature inside boundary
 ```
+
+## Flashing, Device Side
