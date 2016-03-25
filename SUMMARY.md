@@ -6,5 +6,6 @@
    * [Building](documentation/Building.md)
    * [Running](documentation/Running.md)
    * Temp
+   * Downloading
 * Supported Platforms
 
