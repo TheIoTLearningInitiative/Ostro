@@ -174,6 +174,38 @@ Starting kernel ...
 [    1.672828]  [<c18c3237>] ret_from_kernel_thread+0x1b/0x28
 [    1.672878]  [<c18ac8b0>] ? rest_init+0x80/0x80
 [    1.672918] ---[ end trace f79745a19c22847d ]---
+...
+...
+[    0.612620] tpm_tis tpm_tis: tpm_transmit: tpm_send: error -5
+[    0.612699] tpm_tis tpm_tis: A TPM error (-5) occurred attempting to determine the timeouts
+[    0.612802] tpm_tis tpm_tis: tpm_transmit: tpm_send: error -5
+[    0.612865] tpm_tis tpm_tis: Could not get TPM timeouts and durations
+[    1.576402] pmic_ccsm pmic_ccsm: Error reading battery profile from battid frmwrk
+[    1.586211] pmic_ccsm pmic_ccsm: Battery Over heat exception
+[    1.586287] pmic_ccsm pmic_ccsm: Battery0 temperature inside boundary
+
+
+******************************
+PSH KERNEL VERSION: b0182929
+                WR: 20104000
+******************************
+
+SCU IPC: 0x800000d0  0xfffce92c
+
+PSH miaHOB version: TNG.B0.VVBD.0000000c
+
+microkernel built 10:14:01 Jan 13 2015
+
+******* PSH loader *******
+PCM page cache size = 192 KB 
+Cache Constraint = 0 Pages
+Arming IPC driver ..
+Adding page store pool ..
+PagestoreAddr(IMR Start Address) = 0x04899000
+pageStoreSize(IMR Size)          = 0x00080000
+
+*** Ready to receive application *** 
+
 ```
 
 ## Booting and Installing an Ostro™ OS Image, Intel Edison, Device Side
