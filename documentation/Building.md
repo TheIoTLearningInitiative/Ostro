@@ -3,6 +3,8 @@ Building
 
 - [Github Ostro OS ](https://github.com/ostroproject/ostro-os)
 
+## Intel Edison
+
 ```sh
 xe1gyq@jessie:~$ mkdir ostro
 xe1gyq@jessie:~$ cd ostro/
