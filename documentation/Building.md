@@ -48,5 +48,6 @@ technical note for more information.
 xe1gyq@jessie:~/ostro/ostro-os/build$ nano conf/local.conf
 # For Intel Edison:
 MACHINE ?= "edison"
+xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
 
 ```
