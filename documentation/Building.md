@@ -65,7 +65,7 @@ MACHINE ?= "edison"
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
 ```
 
-The following issue is fixed by 
+The following issue is fixed by #DISTRO ?= "ostro"
 
 ```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
@@ -75,6 +75,15 @@ and doc/howtos/building-images.rst.
 
 Summary: There was 1 ERROR message shown, returning a non-zero exit code.
 ```
+
+The following issue is fixed by
+
+```
+#PACKAGECONFIG_append_pn-qemu-native = " sdl"
+#PACKAGECONFIG_append_pn-nativesdk-qemu = " sdl"
+#ASSUME_PROVIDED += "libsdl-native"
+```
+
 ```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
 NOTE: Your conf/bblayers.conf has been automatically updated.
