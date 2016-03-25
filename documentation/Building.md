@@ -64,6 +64,7 @@ xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
 ```
 
 ```sh
+xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
 Loading cache: 100% |#####################################################################################| ETA:  00:00:00
 Loaded 2579 entries from dependency cache.
