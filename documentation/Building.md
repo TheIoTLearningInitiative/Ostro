@@ -1,10 +1,9 @@
 Building
 ==
 
-- [Github Ostro OS ](https://github.com/ostroproject/ostro-os)
+- [Github Ostro OS ](https://github.com/ostroproject/ostro-os
 
-
-### Base Images
+## Base Images
 
 > ostro-image
 > > The default image. Contains all programming runtimes
