@@ -50,6 +50,8 @@ bitbake.lock  cache  conf  tmp-glibc
 xe1gyq@jessie:~/ostro/ostro-os/build$ nano conf/local.conf
 # For Intel Edison:
 MACHINE ?= "edison"
+...
+#DISTRO ?= "ostro"
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
 
 ```
