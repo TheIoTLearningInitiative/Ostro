@@ -107,6 +107,8 @@ xe1gyq@jessie:~/ostro/ostro-os/build$ nano conf/local.conf
 #ASSUME_PROVIDED += "libsdl-native"
 ```
 
+#### clr-systemd-config
+
 ```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
