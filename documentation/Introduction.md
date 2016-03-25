@@ -1,7 +1,7 @@
 Introduction
 ==
 
-## Download
+## Downloading a Pre-Built Ostro OS Image
 
 ```sh
 xe1gyq@jessie:~/Downloads/ostro$ wget https://download.ostroproject.org/builds/ostro-os/2016-03-23_23-27-58-build-411/images/edison/ostro-image-dev-edison.toflash.tar.bz2
