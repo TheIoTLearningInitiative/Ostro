@@ -97,6 +97,7 @@ Summary: There was 1 ERROR message shown, returning a non-zero exit code.
 Fixed by commenting lines below under __conf/local.conf__
 
 ```sh
+xe1gyq@jessie:~/ostro/ostro-os/build$ nano conf/local.conf
 #PACKAGECONFIG_append_pn-qemu-native = " sdl"
 #PACKAGECONFIG_append_pn-nativesdk-qemu = " sdl"
 #ASSUME_PROVIDED += "libsdl-native"
