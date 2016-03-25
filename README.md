@@ -1,7 +1,7 @@
 # Ostro
 Ostro Project
 
-## 
+## Download
 
 ```sh
 xe1gyq@jessie:~/Downloads/ostro$ wget https://download.ostroproject.org/builds/ostro-os/2016-03-23_23-27-58-build-411/images/edison/ostro-image-dev-edison.toflash.tar.bz2
@@ -63,6 +63,11 @@ toFlash/FlashEdison.json
 toFlash/flashall.bat
 toFlash/flashall.sh
 xe1gyq@jessie:~/Downloads/ostro$ cd toFlash/
+```
+
+## Flashing
+
+```sh
 xe1gyq@jessie:~/Downloads/ostro/toFlash$ ./flashall.sh 
 
 ```
