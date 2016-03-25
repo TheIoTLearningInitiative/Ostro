@@ -6,6 +6,7 @@ Introduction
 
 - [Ostro Project Homepage](https://ostroproject.org/)
 - [[Ostro-dev] Ostro OS 1.0 Pre-release now available](https://lists.ostroproject.org/pipermail/ostro-dev/2016-March/000000.html)
+- [Ostro™ OS: Version 1.0 Pre-release Notes](https://github.com/ostroproject/ostro-os/releases/tag/v1.0.0-pre)
 
 Supported Platforms
 
