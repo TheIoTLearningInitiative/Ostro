@@ -9,9 +9,11 @@ Introduction
 Supported Platforms
 
 - Beaglebone
+- GigaByte GB-BXBT-3825
 - Intel Edison
 - Intel Core i7-64
 - Intel Quark
+- VirtualBox
 
 ## Ostro Documentation
 
