@@ -1,5 +1,9 @@
 # Architecture
 
+{% include "documentation/Running.md" %}
+{% include "git+https://github.com/GitbookIO/documentation.git/README.md#0.0.1" %}
+
+
 ```sh
 OSTRO_LAYERS = " \
   /home/xe1gyq/ostro/ostro-os/meta-ostro-fixes \
