@@ -5,8 +5,8 @@ xe1gyq@jessie:~/Downloads$ mv ostro-image-dev-edison.toflash.tar.bz2 ostro
 xe1gyq@jessie:~/Downloads$ cd ostro/
 xe1gyq@jessie:~/Downloads/ostro$ ls
 ostro-image-dev-edison.toflash.tar.bz2
-ostro-image-edison-2016-03-02_09-51-12-build-399.toflash.tar.bz2
-xe1gyq@jessie:~/Downloads/ostro$ tar xvf ostro-image-dev-edison.toflash.tar.bz2toFlash/
+xe1gyq@jessie:~/Downloads/ostro$ tar xvf ostro-image-dev-edison.toflash.tar.bz2
+toFlash/
 toFlash/filter-dfu-out.js
 toFlash/pft-config-edison.xml
 toFlash/edison_ifwi-dbg-02-dfu.bin
