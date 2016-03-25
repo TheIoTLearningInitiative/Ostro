@@ -81,13 +81,6 @@ Fixed by commenting line below under __conf/local.conf__
 xe1gyq@jessie:~/ostro/ostro-os/build$ nano conf/local.conf
 #DISTRO ?= "ostro"
 ```
-The following issue is fixed by
-
-```
-#PACKAGECONFIG_append_pn-qemu-native = " sdl"
-#PACKAGECONFIG_append_pn-nativesdk-qemu = " sdl"
-#ASSUME_PROVIDED += "libsdl-native"
-```
 
 ```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
@@ -99,6 +92,14 @@ ERROR:  OE-core's config sanity checker detected a potential misconfiguration.
     libsdl-native is set to be ASSUME_PROVIDED but sdl-config can't be found in PATH. Please either install it, or configure qemu not to require sdl.
 
 Summary: There was 1 ERROR message shown, returning a non-zero exit code.
+```
+
+Fixed by commenting lines below under __conf/local.conf__
+
+```sh
+#PACKAGECONFIG_append_pn-qemu-native = " sdl"
+#PACKAGECONFIG_append_pn-nativesdk-qemu = " sdl"
+#ASSUME_PROVIDED += "libsdl-native"
 ```
 
 ```sh
