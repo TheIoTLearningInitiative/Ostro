@@ -5,6 +5,6 @@
 * [Quick Start Guide](documentation/QuickStartGuide.md)
    * [Building](documentation/Building.md)
    * Temp
-* Running
+* [Running](documentation/Running.md)
 * Supported Platforms
 
