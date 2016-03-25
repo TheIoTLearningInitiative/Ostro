@@ -66,7 +66,7 @@ xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
 ```
 ### Issues
 
-#### 
+#### local.conf editing
 
 ```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
@@ -83,6 +83,8 @@ Fixed by commenting line below under __conf/local.conf__
 xe1gyq@jessie:~/ostro/ostro-os/build$ nano conf/local.conf
 #DISTRO ?= "ostro"
 ```
+
+#### libsdl-native
 
 ```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
