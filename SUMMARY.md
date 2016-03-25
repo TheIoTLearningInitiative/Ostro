@@ -3,8 +3,8 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
 * [Getting Started](documentation/GettingStarted.md)
+   * [Building](documentation/Building.md)
    * Temp
-* [Building](documentation/Building.md)
 * Running
 * Supported Platforms
 
