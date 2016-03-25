@@ -5,4 +5,5 @@
 * [Getting Started](documentation/GettingStarted.md)
 * [Building](documentation/Building.md)
 * Running
+* Supported Platforms
 
