@@ -1,4 +1,5 @@
-# Architecture
+Architecture
+==
 
 {% include "Running.md" %}
 
