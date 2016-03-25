@@ -66,6 +66,8 @@ xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
 ```
 ### Issues
 
+#### 
+
 ```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
 ERROR: local.conf must be explicitly edited to select between building
