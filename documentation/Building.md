@@ -65,6 +65,17 @@ MACHINE ?= "edison"
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
 ```
 
+The following issue is fixed by 
+
+```sh
+xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
+ERROR: local.conf must be explicitly edited to select between building
+production and development images. See the comments in local.conf.sample
+and doc/howtos/building-images.rst.
+
+Summary: There was 1 ERROR message shown, returning a non-zero exit code.
+```
+
 ```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
