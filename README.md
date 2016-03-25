@@ -1,6 +1,7 @@
 # Ostro
 Ostro Project
 
+xe1gyq@jessie:~/Downloads/ostro$ wget https://download.ostroproject.org/builds/ostro-os/2016-03-23_23-27-58-build-411/images/edison/ostro-image-dev-edison.toflash.tar.bz2
 xe1gyq@jessie:~/Downloads$ mv ostro-image-dev-edison.toflash.tar.bz2 ostro
 xe1gyq@jessie:~/Downloads$ cd ostro/
 xe1gyq@jessie:~/Downloads/ostro$ ls
