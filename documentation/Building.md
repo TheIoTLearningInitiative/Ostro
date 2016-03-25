@@ -3,6 +3,18 @@ Building
 
 - [Github Ostro OS ](https://github.com/ostroproject/ostro-os)
 
+
+### Base Images
+
+> ostro-image
+> > The default image. Contains all programming runtimes
+
+> ostro-image-dev
+> > The same as ostro-image, plus build and debugging tools
+
+> ostro-image-minimal
+> > A smaller image which still has the core OS, but none of the optional runtimes
+
 ## Intel Edison
 
 ```sh
