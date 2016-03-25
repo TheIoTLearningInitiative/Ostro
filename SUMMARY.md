@@ -2,7 +2,7 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
-* [Getting Started](documentation/GettingStarted.md)
+* [Quick Start Guide](documentation/GettingStarted.md)
    * [Building](documentation/Building.md)
    * Temp
 * Running
