@@ -64,3 +64,65 @@ xe1gyq@jessie:~/Downloads/ostro$ cd toFlash/
 xe1gyq@jessie:~/Downloads/ostro/toFlash$ ./flashall.sh 
 
 ```
+
+```sh
+******************************
+PSH KERNEL VERSION: b0182929
+                WR: 20104000
+******************************
+
+SCU IPC: 0x800000d0  0xfffce92c
+
+PSH miaHOB version: TNG.B0.VVBD.0000000c
+
+microkernel built 10:14:01 Jan 13 2015
+
+******* PSH loader *******
+PCM page cache size = 192 KB 
+Cache Constraint = 0 Pages
+Arming IPC driver ..
+Adding page store pool ..
+PagestoreAddr(IMR Start Address) = 0x04899000
+pageStoreSize(IMR Size)          = 0x00080000
+
+*** Ready to receive application *** 
+
+
+U-Boot 2014.04 (Mar 23 2016 - 10:35:12)
+
+       Watchdog enabled
+DRAM:  980.6 MiB
+MMC:   tangier_sdhci: 0, tangier_sdhci: 1
+In:    serial
+Out:   serial
+Err:   serial
+Hit any key to stop autoboot:  0 
+Target:blank
+Partitioning already done...
+Flashing already done...
+GADGET DRIVER: usb_dnl_dfu
+Card did not respond to voltage select!
+** Bad device mmc 1 **
+reading vmlinuz
+5296624 bytes read in 131 ms (38.6 MiB/s)
+Booting from emmc ...
+Valid Boot Flag
+Setup Size = 0x00003c00
+Magic signature found
+Using boot protocol version 2.0c
+Linux kernel version 3.10.98-yocto-standard (jenkins@ostro-worker-15) #1 SMP PREEMPT Thu Mar 24 08:53:01 UTC 2016
+Building boot_params at 0x00090000
+Loading bzImage at address 00100000 (5281264 bytes)
+Magic signature found
+Kernel command line: "rootwait root=PARTUUID=012b3303-34ac-284d-99b4-34e03a2335f4 rootfstype=ext4 console=ttyMFD2 earlypr"
+
+Starting kernel ...
+
+[    0.612659] tpm_tis tpm_tis: tpm_transmit: tpm_send: error -5
+[    0.612738] tpm_tis tpm_tis: A TPM error (-5) occurred attempting to determine the timeouts
+[    0.612841] tpm_tis tpm_tis: tpm_transmit: tpm_send: error -5
+[    0.612904] tpm_tis tpm_tis: Could not get TPM timeouts and durations
+[    1.562079] pmic_ccsm pmic_ccsm: Error reading battery profile from battid frmwrk
+[    1.571908] pmic_ccsm pmic_ccsm: Battery Over heat exception
+[    1.571988] pmic_ccsm pmic_ccsm: Battery0 temperature inside boundary
+```
