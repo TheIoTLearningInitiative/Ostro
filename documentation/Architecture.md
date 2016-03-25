@@ -1,6 +1,6 @@
 # Architecture
 
-{% include "documentation/Running.md" %}
+{% include "Running.md" %}
 {% include "git+https://github.com/GitbookIO/documentation.git/README.md#0.0.1" %}
 
 
