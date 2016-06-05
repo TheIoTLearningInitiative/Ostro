@@ -64,6 +64,12 @@ Common targets are:
     adt-installer
     meta-ide-support
 
+Common targets are:
+    ostro-image-noswupd (when building without swupd,
+                         the recommended mode for local image building)
+    ostro-image-swupd   (when building with swupd, the recommended mode
+                         for deployment)
+
 We recommend to use VirtualBox if you wish to run an Ostro image in a
 virtual environment. Please check the doc/howtos/booting-and-installation.rst
 technical note for more information.
