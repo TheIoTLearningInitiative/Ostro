@@ -77,7 +77,7 @@ technical note for more information.
 
 ```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ ls
-bitbake.lock  cache  conf  tmp-glibc
+conf
 xe1gyq@jessie:~/ostro/ostro-os/build$ nano conf/local.conf
 # For Intel Edison:
 MACHINE ?= "edison"
