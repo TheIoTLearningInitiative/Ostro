@@ -14,6 +14,13 @@
 
 - [Bundles overview](https://clearlinux.org/documentation/bundles_overview.html)
 
+```
+root@edison:~# ls /usr/share/clear/bundles
+os-core    world-dev
+root@edison:~# 
+```
+
+
 ```sh
 root@edison:~# swupd
 Usage:
