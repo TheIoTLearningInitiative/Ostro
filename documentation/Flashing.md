@@ -1,6 +1,6 @@
 # Flashing
 
-# Intel Edison, Flashing an Ostro™ OS Image, Host Side
+# Intel Edison, Host Side
 
 ```sh
 xe1gyq@jessie:~/Downloads/ostro/toFlash$ ./flashall.sh 
