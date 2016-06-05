@@ -84,3 +84,11 @@ Currently 2 running tasks (594 of 4280):
 1: jikes-native-1.22-r0 do_compile (pid 32517)
 
 ```
+
+## Software Update Server
+
+- [Software Update Server](https://ostroproject.org/documentation/howtos/software-update-server.html)
+
+```sh
+tmp-glibc/deploy/swupd/intel-corei7-64/ostro-image-swupd/
+```
