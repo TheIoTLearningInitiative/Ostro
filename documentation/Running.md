@@ -1,6 +1,6 @@
 # Running
 
-# Intel Edison, NoSwUpd
+# Intel Edison, NoSwUpd Version
 
 ```sh
 resetting ...
