@@ -1,7 +1,12 @@
 
 # Downloading
 
-[Ostro download Area](https://download.ostroproject.org/)
+[Ostro Download Area](https://download.ostroproject.org/)
+
+- ostro-image-noswupd-edison.toflash.tar.bz2  
+- ostro-image-swupd-all-edison.toflash.tar.bz2
+- ostro-image-swupd-dev-edison.toflash.tar.bz2
+- ostro-image-swupd-edison.toflash.tar.bz2
 
 ## Intel Edison, Pre-Built Ostro OS Image, NoSwUpd
 
