@@ -24,7 +24,7 @@
    * [Logs](documentation/Logs.md)
    * Package Management Systems
        * [SwUpd](documentation/SwUpd.md)
-       * Python Package Index
+       * [Python Package Index](PythonPackageIndex.md)
    * Libraries
 * Subsystems
    * [Power](documentation/Power.md)
