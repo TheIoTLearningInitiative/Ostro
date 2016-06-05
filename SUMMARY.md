@@ -10,5 +10,6 @@
    * [Running](documentation/Running.md)
 * [Architecture](documentation/Architecture.md)
 * Subsystems
+   * WiFi
 * [Sandbox](documentation/Sandbox.md)
 
