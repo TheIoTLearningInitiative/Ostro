@@ -2,17 +2,17 @@
 
 > The [SoftWare UPDater](https://clearlinux.org/features/software-update) — swupd — from [Clear Linux](https://clearlinux.org/) provides a new way of adding functionality to and updating a Linux-based OS. [Meta layer for swupd software-update](http://git.yoctoproject.org/cgit/cgit.cgi/meta-swupd/tree/docs/Guide.md)
 
-- ostro-image-noswupd (when building without swupd, the recommended mode for local image building)
-- ostro-image-swupd   (when building with swupd, the recommended mode for deployment)
-
-## Software update
-
 - [About software update](https://clearlinux.org/documentation/swupdate_about_sw_update.html)
 - [How to run the updater](https://clearlinux.org/documentation/swupdate_how_to_run_the_updater.html)
 
-## Bundles
+- ostro-image-noswupd (when building without swupd, the recommended mode for local image building)
+- ostro-image-swupd   (when building with swupd, the recommended mode for deployment)
+
+# Bundles
 
 - [Bundles overview](https://clearlinux.org/documentation/bundles_overview.html)
+
+##
 
 ```sh
 root@edison:~# ls /usr/share/clear/bundles
