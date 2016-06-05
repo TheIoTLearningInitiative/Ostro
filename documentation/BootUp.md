@@ -219,6 +219,10 @@ root@edison:~#
 ```
 
 ```sh
+
+```
+
+```sh
 root@edison:~# iptables-save > /home/root/firewall.rules
 root@edison:~# iptables -F
 root@edison:~# iptables -X
