@@ -1,7 +1,6 @@
-Building
-==
+# Building
 
-- [Github Ostro OS ](https://github.com/ostroproject/ostro-os
+- [Github Ostro OS](https://github.com/ostroproject/ostro-os)
 
 ## Base Images
 
@@ -21,12 +20,13 @@ xe1gyq@jessie:~$ mkdir ostro
 xe1gyq@jessie:~$ cd ostro/
 xe1gyq@jessie:~/ostro$ git clone https://github.com/ostroproject/ostro-os.git
 Cloning into 'ostro-os'...
-remote: Counting objects: 373987, done.
-remote: Compressing objects: 100% (624/624), done.
-remote: Total 373987 (delta 401), reused 129 (delta 129), pack-reused 373219
-Receiving objects: 100% (373987/373987), 135.33 MiB | 185.00 KiB/s, done.
-Resolving deltas: 100% (241720/241720), done.
+remote: Counting objects: 391671, done.
+remote: Compressing objects: 100% (3054/3054), done.
+remote: Total 391671 (delta 2035), reused 329 (delta 329), pack-reused 388238
+Receiving objects: 100% (391671/391671), 144.42 MiB | 205.00 KiB/s, done.
+Resolving deltas: 100% (253541/253541), done.
 Checking connectivity... done.
+Checking out files: 100% (9520/9520), done.
 xe1gyq@jessie:~/ostro$ cd ostro-os/
 xe1gyq@jessie:~/ostro/ostro-os$ source oe-init-build-env
 You had no conf/local.conf file. This configuration file has therefore been
