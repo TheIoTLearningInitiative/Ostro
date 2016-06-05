@@ -14,12 +14,11 @@
 
 - [Bundles overview](https://clearlinux.org/documentation/bundles_overview.html)
 
-```
+```sh
 root@edison:~# ls /usr/share/clear/bundles
 os-core    world-dev
 root@edison:~# 
 ```
-
 
 ```sh
 root@edison:~# swupd
@@ -50,5 +49,15 @@ swupd-client software update 2.87
 
 Error: Network issue, unable to proceed with update
 Update exiting.
+root@edison:~# 
+```
+
+```sh
+root@edison:~# swupd bundle-add editors
+swupd-client bundle adder 2.87
+   Copyright (C) 2012-2015 Intel Corporation
+   bsdiff portions Copyright Colin Percival, see COPYING file for details
+
+Cannot load official manifest MoM for version 4400
 root@edison:~# 
 ```
