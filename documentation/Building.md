@@ -184,7 +184,7 @@ NOTE: Executing SetScene Tasks
 Currently 2 running tasks (68 of 1030):
 0: linux-firmware-1_144.0+gitAUTOINC+80d463be82-r0 do_populate_sysroot_setscene (pid 21300)
 1: linux-firmware-1_144.0+gitAUTOINC+80d463be82-r0 do_package_write_ipk_setscene (pid 22299)
-
+...
 ```
 ## Issues
 
