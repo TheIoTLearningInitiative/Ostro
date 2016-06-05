@@ -65,7 +65,7 @@ toFlash/flashall.sh
 xe1gyq@jessie:~/Downloads/ostro$ cd toFlash/
 ```
 
-## Intel Edison, Pre-Built Ostro OS Image, NoSwUpd
+## Intel Edison, Pre-Built Ostro OS Image, SwUpd
 
 ```sh
 xe1gyq@jessie:~/Downloads/ostro$ tar xvf ostro-image-swupd-dev-edison-2016-05-02_00-09-47-build-440.toflash.tar.bz2
