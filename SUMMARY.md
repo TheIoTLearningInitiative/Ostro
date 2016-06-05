@@ -5,6 +5,7 @@
 * [Supported Platforms](documentation/SupportedPlatforms.md)
 * [Build System](documentation/BuildSystem.md)
    * [Building](documentation/Building.md)
+       * Package Management
    * [Downloading](documentation/Downloading.md)
    * [Flashing](documentation/Flashing.md)
    * [Running](documentation/Running.md)
