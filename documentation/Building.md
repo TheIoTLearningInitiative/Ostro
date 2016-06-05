@@ -188,11 +188,11 @@ Currently 2 running tasks (68 of 1030):
 Currently 2 running tasks (706 of 1030):
 0: glibc-locale-2.24-r0 do_package_write_ipk_setscene (pid 3247)
 1: u-boot-fw-utils-edison-2014.04-1-r0 do_packagedata_setscene (pid 27968)
-
+...
 ```
 ## Issues
 
-### local.conf editing
+### local.conf editing, building production and development images
 
 ```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
