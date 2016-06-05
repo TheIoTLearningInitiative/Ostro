@@ -1,5 +1,7 @@
 # SwUpd
 
+> [Meta layer for swupd software-update](http://git.yoctoproject.org/cgit/cgit.cgi/meta-swupd/tree/docs/Guide.md)
+
 - ostro-image-noswupd (when building without swupd, the recommended mode for local image building)
 - ostro-image-swupd   (when building with swupd, the recommended mode for deployment)
 
