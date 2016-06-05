@@ -9,6 +9,6 @@
    * [Flashing](documentation/Flashing.md)
    * [Running](documentation/Running.md)
 * [Architecture](documentation/Architecture.md)
-* [Sandbox](documentation/Sandbox.md)
 * Subsystems
+* [Sandbox](documentation/Sandbox.md)
 
