@@ -12,6 +12,7 @@
 * [Initialization](documentation/Initialization.md)
    * [BootUp](documentation/BootUp.md)
    * [Display Message](documentation/DisplayMessage.md)
+   * Modules
 * Subsystems
    * [WiFi](WiFi.md)
 * [Sandbox](documentation/Sandbox.md)
