@@ -12,6 +12,8 @@
 
 - [Bundles overview](https://clearlinux.org/documentation/bundles_overview.html)
 
+![Clear Linux Bundles Overview](https://clearlinux.org/documentation/_images/bundles_overview.png)
+
 ##
 
 ```sh
