@@ -15,8 +15,8 @@
    * [Modules](documentation/Modules.md)
    * [Filesystem](documentation/Filesystem.md)
    * [Memory](documentation/Memory.md)
+* User Space
 * Subsystems
    * [WiFi](WiFi.md)
 * [Sandbox](documentation/Sandbox.md)
-* User Space
 
