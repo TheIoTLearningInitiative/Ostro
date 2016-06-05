@@ -18,6 +18,9 @@
 ```sh
 xe1gyq@jessie:~$ mkdir ostro
 xe1gyq@jessie:~$ cd ostro/
+```
+
+```sh
 xe1gyq@jessie:~/ostro$ git clone https://github.com/ostroproject/ostro-os.git
 Cloning into 'ostro-os'...
 remote: Counting objects: 391671, done.
@@ -27,6 +30,9 @@ Receiving objects: 100% (391671/391671), 144.42 MiB | 205.00 KiB/s, done.
 Resolving deltas: 100% (253541/253541), done.
 Checking connectivity... done.
 Checking out files: 100% (9520/9520), done.
+```
+
+```sh
 xe1gyq@jessie:~/ostro$ cd ostro-os/
 xe1gyq@jessie:~/ostro/ostro-os$ source oe-init-build-env
 You had no conf/local.conf file. This configuration file has therefore been
