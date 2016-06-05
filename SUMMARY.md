@@ -19,6 +19,7 @@
    * [Memory](documentation/Memory.md)
    * [Reboot](documentation/Reboot.md)
    * [Processes](documentation/Processes.md)
+   * Environment
 * [User Space](documentation/UserSpace.md)
    * [Services](documentation/Services.md)
    * [Logs](documentation/Logs.md)
