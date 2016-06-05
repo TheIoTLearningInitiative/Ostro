@@ -180,7 +180,11 @@ meta-soletta      = "master:13d93e44844452112bf3653537e10007eecf4865"
 NOTE: Fetching uninative binary shim from http://downloads.yoctoproject.org/releases/uninative/1.1/i686-nativesdk-libc.tar.bz2;sha256sum=1973aa8d07ba4fdae197ea3ffba1274c57ff7923679c364ec8e2b66c73483234
 NOTE: Preparing RunQueue
 NOTE: Checking sstate mirror object availability (for 1020 objects)
-...
+NOTE: Executing SetScene Tasks
+Currently 2 running tasks (68 of 1030):
+0: linux-firmware-1_144.0+gitAUTOINC+80d463be82-r0 do_populate_sysroot_setscene (pid 21300)
+1: linux-firmware-1_144.0+gitAUTOINC+80d463be82-r0 do_package_write_ipk_setscene (pid 22299)
+
 ```
 ## Issues
 
