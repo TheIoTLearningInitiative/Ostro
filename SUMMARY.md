@@ -3,7 +3,7 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
 * [Supported Platforms](documentation/SupportedPlatforms.md)
-* [Build System](documentation/QuickStartGuide.md)
+* [Build System](documentation/BuildSystem.md)
    * [Downloading](documentation/Downloading.md)
    * [Building](documentation/Building.md)
    * [Running](documentation/Running.md)
