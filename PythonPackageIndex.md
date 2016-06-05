@@ -1,5 +1,15 @@
 # Python Package Index
 
+
+```sh
+```
+
+```sh
+```
+
+```sh
+```
+
 ```sh
 root@edison:~# easy_install pip                                                                        
 Searching for pip                                                                                      
