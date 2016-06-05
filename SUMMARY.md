@@ -17,6 +17,7 @@
    * [Memory](documentation/Memory.md)
 * [User Space](UserSpace.md)
    * [Services](documentation/Services.md)
+   * Logs
 * Subsystems
    * [WiFi](WiFi.md)
 * [Sandbox](documentation/Sandbox.md)
