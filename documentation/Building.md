@@ -177,6 +177,10 @@ meta-python
 meta-java         
 meta-soletta      = "master:13d93e44844452112bf3653537e10007eecf4865"
 ...
+NOTE: Fetching uninative binary shim from http://downloads.yoctoproject.org/releases/uninative/1.1/i686-nativesdk-libc.tar.bz2;sha256sum=1973aa8d07ba4fdae197ea3ffba1274c57ff7923679c364ec8e2b66c73483234
+NOTE: Preparing RunQueue
+NOTE: Checking sstate mirror object availability (for 1020 objects)
+...
 ```
 ## Issues
 
