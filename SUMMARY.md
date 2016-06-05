@@ -14,6 +14,7 @@
    * [Display Message](documentation/DisplayMessage.md)
    * [Modules](documentation/Modules.md)
    * [Filesystem](documentation/Filesystem.md)
+   * Memory
 * Subsystems
    * [WiFi](WiFi.md)
 * [Sandbox](documentation/Sandbox.md)
