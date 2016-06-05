@@ -1,5 +1,8 @@
 # SwUpd
 
+- ostro-image-noswupd (when building without swupd, the recommended mode for local image building)
+- ostro-image-swupd   (when building with swupd, the recommended mode for deployment)
+
 ```sh
 root@edison:~# swupd
 Usage:
