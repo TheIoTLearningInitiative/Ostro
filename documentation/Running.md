@@ -1,5 +1,4 @@
-Running
-==
+# Running
 
 # Intel Edison, Booting and Installing an Ostro™ OS Image, Host Side
 
