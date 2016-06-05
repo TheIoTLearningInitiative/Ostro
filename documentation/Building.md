@@ -140,7 +140,7 @@ NOTE: /home/xe1gyq/ostro-os/meta-java/recipes-core/openjdk/openjdk-8-native_72b0
 NOTE: /home/xe1gyq/ostro-os/meta-java/recipes-core/icedtea/icedtea7-native_2.1.3.bb: base_contains is deprecated, please use bb.utils.contains instead.
 NOTE: /home/xe1gyq/ostro-os/meta-java/recipes-core/icedtea/icedtea7-native_2.1.3.bb: base_contains is deprecated, please use bb.utils.contains instead.
 ...
-...
+Parsing recipes:  19% |############                                                    | ETA:  00:06:32
 ```
 ### Issues
 
