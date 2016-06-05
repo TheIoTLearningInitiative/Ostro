@@ -5,6 +5,15 @@
 - ostro-image-noswupd (when building without swupd, the recommended mode for local image building)
 - ostro-image-swupd   (when building with swupd, the recommended mode for deployment)
 
+## Software update
+
+- [About software update](https://clearlinux.org/documentation/swupdate_about_sw_update.html)
+How to run the updater
+
+## Bundles
+
+Bundles overview
+
 ```sh
 root@edison:~# swupd
 Usage:
