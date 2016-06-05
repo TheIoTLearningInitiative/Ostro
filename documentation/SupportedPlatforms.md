@@ -1,5 +1,4 @@
-Supported Platforms
-==
+# Supported Platforms
 
 ## Platform: Yocto Project MACHINE selection
 
