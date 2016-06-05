@@ -1,6 +1,8 @@
 
 # Downloading
 
+[Ostro download Area](https://download.ostroproject.org/)
+
 ## Intel Edison, Pre-Built Ostro OS Image, NoSwUpd
 
 ```sh
