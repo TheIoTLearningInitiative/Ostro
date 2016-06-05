@@ -10,7 +10,7 @@
    * [Running](documentation/Running.md)
 * [Architecture](documentation/Architecture.md)
 * [Initialization](documentation/Initialization.md)
-   * [BootUp](documentation/BootUp.md)
+   * [Boot Up](documentation/BootUp.md)
    * [Display Message](documentation/DisplayMessage.md)
    * [Modules](documentation/Modules.md)
    * [Filesystem](documentation/Filesystem.md)
