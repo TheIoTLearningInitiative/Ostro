@@ -20,3 +20,14 @@ Subcommands:
 To view subcommand options, run `swupd SUBCOMMAND --help'
 root@edison:~# 
 ```
+
+```sh
+root@edison:~# swupd update
+swupd-client software update 2.87
+   Copyright (C) 2012-2015 Intel Corporation
+   bsdiff portions Copyright Colin Percival, see COPYING file for details
+
+Error: Network issue, unable to proceed with update
+Update exiting.
+root@edison:~# 
+```
