@@ -22,7 +22,7 @@
    * Package Management Systems
    * Libraries
 * Subsystems
-   * Power
+   * [Power](documentation/Power.md)
 * Application Development
    * [Python](documentation/Python.md)
 * [Sandbox](ApplicationsDevelopment.md)
