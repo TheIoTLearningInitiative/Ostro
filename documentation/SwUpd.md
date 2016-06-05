@@ -8,7 +8,7 @@
 ## Software update
 
 - [About software update](https://clearlinux.org/documentation/swupdate_about_sw_update.html)
-- [https://clearlinux.org/documentation/swupdate_how_to_run_the_updater.html](How to run the updater)
+- [How to run the updater](https://clearlinux.org/documentation/swupdate_how_to_run_the_updater.html)
 
 ## Bundles
 
