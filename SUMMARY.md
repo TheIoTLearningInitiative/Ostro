@@ -18,6 +18,7 @@
 * [User Space](UserSpace.md)
    * [Services](documentation/Services.md)
    * [Logs](Logs.md)
+   * Package Management Systems
 * Subsystems
 * [Sandbox](documentation/Sandbox.md)
 
