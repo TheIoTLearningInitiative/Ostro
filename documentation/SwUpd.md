@@ -1,3 +1,7 @@
+# Software Update Mechanism for Ostro™ OS
+
+- [Software Update Mechanism for Ostro™ OS](https://ostroproject.org/documentation/architecture/software-update.html)
+
 # SwUpd
 
 > The [SoftWare UPDater](https://clearlinux.org/features/software-update) — swupd — from [Clear Linux](https://clearlinux.org/) provides a new way of adding functionality to and updating a Linux-based OS. [Meta layer for swupd software-update](http://git.yoctoproject.org/cgit/cgit.cgi/meta-swupd/tree/docs/Guide.md)
