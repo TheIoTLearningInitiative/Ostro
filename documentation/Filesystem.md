@@ -1,6 +1,16 @@
 # Filesystem
 
 ```sh
+root@edison:~# cd /
+root@edison:/# ls
+bin         dev         factory     lib         media       proc        sbin        sys         usr
+boot        etc         home        lost+found  mnt         run         srv         tmp         var
+root@edison:/# ls /home/
+root
+root@edison:/# 
+```
+
+```sh
 root@edison:~# df -h
 Filesystem                Size      Used Available Use% Mounted on
 /dev/root                 1.8G    322.2M      1.4G  19% /
