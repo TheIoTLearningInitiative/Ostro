@@ -9,8 +9,8 @@
    * [Flashing](documentation/Flashing.md)
    * [Running](documentation/Running.md)
 * [Architecture](documentation/Architecture.md)
+* Initialization
 * Subsystems
    * [WiFi](WiFi.md)
 * [Sandbox](documentation/Sandbox.md)
-* Initialization
 
