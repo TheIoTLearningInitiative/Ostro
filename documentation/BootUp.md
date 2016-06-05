@@ -1,4 +1,4 @@
-# BootUp
+# Boot Up
 
 ```sh
 Linux kernel version 3.10.98-yocto-standard (jenkins@ostro-worker-20) #1 SMP PREEMPT Fri Apr 29 15:11:6
