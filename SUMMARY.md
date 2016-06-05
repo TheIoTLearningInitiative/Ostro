@@ -17,7 +17,7 @@
    * [Memory](documentation/Memory.md)
 * [User Space](UserSpace.md)
    * [Services](documentation/Services.md)
-   * [Logs](Logs.md)
+   * [Logs](documentation/Logs.md)
    * Package Management Systems
    * Libraries
 * Subsystems
