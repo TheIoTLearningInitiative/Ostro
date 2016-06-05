@@ -18,7 +18,7 @@ connmanctl> connect wifi_784b87a53a73_494e46494e4954554d666a7068_managed_psk
 Agent RequestInput wifi_784b87a53a73_494e46494e4954554d666a7068_managed_psk
   Passphrase = [ Type=psk, Requirement=mandatory, Alternates=[ WPS ] ]
   WPS = [ Type=wpspin, Requirement=alternate ]
-Passphrase? 1c2899dfda
+Passphrase? 
 Connected wifi_784b87a53a73_494e46494e4954554d666a7068_managed_psk
 connmanctl> exit
 root@edison:~# ifconfig
