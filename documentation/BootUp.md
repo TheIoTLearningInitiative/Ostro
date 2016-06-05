@@ -217,3 +217,16 @@ PING google.com (216.58.193.46): 56 data bytes
 round-trip min/avg/max = 445.769/948.584/1467.134 ms
 root@edison:~# 
 ```
+
+```sh
+root@edison:~# iptables-save > /home/root/firewall.rules
+root@edison:~# iptables -F
+root@edison:~# iptables -X
+root@edison:~# iptables -t nat -F
+root@edison:~# iptables -t nat -X
+root@edison:~# iptables -t mangle -F
+root@edison:~# iptables -t mangle -X
+root@edison:~# iptables -P INPUT ACCEPT
+root@edison:~# iptables -P OUTPUT ACCEPT     
+root@edison:~# iptables -P FORWARD ACCEPT    
+```
