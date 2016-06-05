@@ -11,6 +11,7 @@
 * [Architecture](documentation/Architecture.md)
 * [Initialization](documentation/Initialization.md)
    * [BootUp](documentation/BootUp.md)
+   * Display Message
 * Subsystems
    * [WiFi](WiFi.md)
 * [Sandbox](documentation/Sandbox.md)
