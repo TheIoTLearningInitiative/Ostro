@@ -1,6 +1,5 @@
 # Running
 
-
 ```sh
 ******************************
 PSH KERNEL VERSION: b0182929
