@@ -204,3 +204,16 @@ wlan0     Link encap:Ethernet  HWaddr 78:4B:87:A5:3A:73
 
 root@edison:~# 
 ```
+
+```sh
+root@edison:~# ping google.com
+PING google.com (216.58.193.46): 56 data bytes
+64 bytes from 216.58.193.46: seq=0 ttl=58 time=445.769 ms
+64 bytes from 216.58.193.46: seq=1 ttl=58 time=932.851 ms
+64 bytes from 216.58.193.46: seq=2 ttl=58 time=1467.134 ms
+^C
+--- google.com ping statistics ---
+4 packets transmitted, 3 packets received, 25% packet loss
+round-trip min/avg/max = 445.769/948.584/1467.134 ms
+root@edison:~# 
+```
