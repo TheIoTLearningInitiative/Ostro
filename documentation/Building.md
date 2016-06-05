@@ -141,6 +141,42 @@ NOTE: /home/xe1gyq/ostro-os/meta-java/recipes-core/icedtea/icedtea7-native_2.1.3
 NOTE: /home/xe1gyq/ostro-os/meta-java/recipes-core/icedtea/icedtea7-native_2.1.3.bb: base_contains is deprecated, please use bb.utils.contains instead.
 ...
 Parsing recipes:  19% |############                                                    | ETA:  00:06:32
+...
+Build Configuration:
+BB_VERSION        = "1.31.0"
+BUILD_SYS         = "i686-linux"
+NATIVELSBSTRING   = "Debian-8.3"
+TARGET_SYS        = "i686-ostro-linux"
+MACHINE           = "edison"
+DISTRO            = "ostro"
+DISTRO_VERSION    = "1.0+snapshot-20160605"
+TUNE_FEATURES     = "m32 edison"
+TARGET_FPU        = ""
+meta-ostro-fixes  
+meta              
+meta-selftest     
+meta-intel        
+meta-ostro        
+meta-oic          
+meta-security-smack 
+meta-security-framework 
+meta-integrity    
+meta-intel-iot-middleware 
+meta-ostro-bsp    
+meta-edison-bsp   
+meta-iot-web      
+meta-yocto-bsp    
+meta-iotqa        
+meta-appfw        
+meta-security-isafw 
+meta-swupd        
+meta-gnome        
+meta-networking   
+meta-oe           
+meta-python       
+meta-java         
+meta-soletta      = "master:13d93e44844452112bf3653537e10007eecf4865"
+...
 ```
 ## Issues
 
