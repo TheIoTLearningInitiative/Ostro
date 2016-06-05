@@ -19,6 +19,5 @@
    * [Services](documentation/Services.md)
    * [Logs](Logs.md)
 * Subsystems
-   * [WiFi](WiFi.md)
 * [Sandbox](documentation/Sandbox.md)
 
