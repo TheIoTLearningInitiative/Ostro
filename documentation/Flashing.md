@@ -22,5 +22,7 @@ Now waiting for dfu device 8087:0a99
 Flashing boot partition (kernel)
 Download	[=========================] 100%     33554432 bytes
 Flashing update partition
+Download	[=========================] 100%    805306368 bytes
+Flashing rootfs, (it can take up to 5 minutes... Please be patient)
 
 ```
