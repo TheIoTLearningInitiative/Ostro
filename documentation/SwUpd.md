@@ -2,6 +2,12 @@
 
 - [Software Update Mechanism for Ostro™ OS](https://ostroproject.org/documentation/architecture/software-update.html)
 
+> Ostro OS based software can be deployed to a target device in two ways:
+> > Full Disk Flashing
+> > > A new software image is built and installed, completely replacing what was previously present on the device. It can be useful for initializing a device with Ostro OS.
+> > Software Update
+> > > This is a component that Ostro OS borrows from Clear Linux* OS and consists of both a server and client component. The Software Update component is not tied to any specific platform or architecture, as long as the concept of rootfs/filesystem is supported.
+
 # SwUpd
 
 > The [SoftWare UPDater](https://clearlinux.org/features/software-update) — swupd — from [Clear Linux](https://clearlinux.org/) provides a new way of adding functionality to and updating a Linux-based OS. [Meta layer for swupd software-update](http://git.yoctoproject.org/cgit/cgit.cgi/meta-swupd/tree/docs/Guide.md)
