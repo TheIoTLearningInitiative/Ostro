@@ -79,6 +79,7 @@ technical note for more information.
 xe1gyq@jessie:~/ostro/ostro-os/build$ ls
 conf
 xe1gyq@jessie:~/ostro/ostro-os/build$ nano conf/local.conf
+...
 # For Intel Edison:
 MACHINE ?= "edison"
 ...
