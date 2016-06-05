@@ -20,7 +20,9 @@ OSTRO_LAYERS = " \
   /home/xe1gyq/ostro/ostro-os/meta-appfw \
   /home/xe1gyq/ostro/ostro-os/meta-security-isafw \
   "
+```
 
+```sh
 # OSTRO_LAYERS += "/home/xe1gyq/ostro/ostro-os/meta-openembedded/meta-efl"
 # OSTRO_LAYERS += "/home/xe1gyq/ostro/ostro-os/meta-openembedded/meta-filesystems"
 # OSTRO_LAYERS += "/home/xe1gyq/ostro/ostro-os/meta-openembedded/meta-gnome"
@@ -38,7 +40,6 @@ OSTRO_LAYERS += "/home/xe1gyq/ostro/ostro-os/meta-openembedded/meta-python"
 # OSTRO_LAYERS += "/home/xe1gyq/ostro/ostro-os/meta-openembedded/toolchain-layer"
 OSTRO_LAYERS += "/home/xe1gyq/ostro/ostro-os/meta-java"
 OSTRO_LAYERS += "/home/xe1gyq/ostro/ostro-os/meta-soletta"
-
 ```
 
 
