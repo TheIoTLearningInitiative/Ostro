@@ -16,8 +16,9 @@ Saving to: ‘ostro-image-dev-edison.toflash.tar.bz2’
 ostro-image-dev-edi 100%[=====================>] 729.00M   753KB/s   in 15m 47ss
 
 2016-03-24 22:52:43 (788 KB/s) - ‘ostro-image-dev-edison.toflash.tar.bz2’ saved [764412486/764412486]
+```
 
-xe1gyq@jessie:~/Downloads$ ls
+```sh
 xe1gyq@jessie:~/Downloads$ mv ostro-image-dev-edison.toflash.tar.bz2 ostro
 xe1gyq@jessie:~/Downloads$ cd ostro/
 xe1gyq@jessie:~/Downloads/ostro$ ls
