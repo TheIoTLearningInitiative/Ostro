@@ -15,7 +15,7 @@
    * [Modules](documentation/Modules.md)
    * [Filesystem](documentation/Filesystem.md)
    * [Memory](documentation/Memory.md)
-   * Reboot
+   * [Reboot](documentation/Reboot.md)
 * [User Space](UserSpace.md)
    * [Services](documentation/Services.md)
    * [Logs](documentation/Logs.md)
