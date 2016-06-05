@@ -1,5 +1,8 @@
 # Package Management
 
+```sh
+xe1gyq@jessie:~/ostro-os/build$ nano conf/local.conf
+```
 
 ```sh
 # Package Management configuration
