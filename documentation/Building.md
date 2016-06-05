@@ -1,6 +1,6 @@
 # Building
 
-- [Github Ostro OS](https://github.com/ostroproject/ostro-os)
+> The ostro-os repository is a combination of several different components in a single repository. It contains everything that is needed to build Ostro OS. [Github Ostro OS](https://github.com/ostroproject/ostro-os)
 
 ## Base Images
 
