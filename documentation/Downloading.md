@@ -68,6 +68,22 @@ xe1gyq@jessie:~/Downloads/ostro$ cd toFlash/
 ## Intel Edison, Pre-Built Ostro OS Image, SwUpd
 
 ```sh
+xe1gyq@jessie:~/Downloads/ostro$ wget https://download.ostroproject.org/releases/ostro-os/milestone/v1.0.0/images/edison/ostro-image-swupd-dev-edison-2016-05-02_00-09-47-build-440.toflash.tar.bz2
+--2016-06-05 01:53:15--  https://download.ostroproject.org/releases/ostro-os/milestone/v1.0.0/images/edison/ostro-image-swupd-dev-edison-2016-05-02_00-09-47-build-440.toflash.tar.bz2
+Resolving download.ostroproject.org (download.ostroproject.org)... 198.145.21.61, 2001:19d0:306:8::3
+Connecting to download.ostroproject.org (download.ostroproject.org)|198.145.21.61|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 592073037 (565M) [application/x-bzip2]
+Saving to: ‘ostro-image-swupd-dev-edison-2016-05-02_00-09-47-build-440.toflash.tar.bz2’
+
+e-swupd-dev-edison-2016-0  76%[============================>          ] 433.35M   420KB/s   eta 6m 8s dostro-image-swupd-dev-edi 100%[======================================>] 564.64M   571KB/s   in 26m 51s
+
+2016-06-05 02:20:10 (359 KB/s) - ‘ostro-image-swupd-dev-edison-2016-05-02_00-09-47-build-440.toflash.tar.bz2’ saved [592073037/592073037]
+
+xe1gyq@jessie:~/Downloads/ostro$ 
+```
+
+```sh
 xe1gyq@jessie:~/Downloads/ostro$ tar xvf ostro-image-swupd-dev-edison-2016-05-02_00-09-47-build-440.toflash.tar.bz2
 toFlash/
 toFlash/edison_ifwi-dbg-05-dfu.bin
