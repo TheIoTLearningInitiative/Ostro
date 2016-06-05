@@ -73,3 +73,9 @@ swupd-client bundle adder 2.87
 Cannot load official manifest MoM for version 4400
 root@edison:~# 
 ```
+
+```sh
+swupd check-update -u example.com/updates
+swupd update -u example.com/updates
+swupd verify -u example.com/updates
+```
