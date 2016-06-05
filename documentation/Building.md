@@ -133,6 +133,14 @@ require conf/distro/include/ostro-os-development.inc
 ```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ # old bitbake ostro-image-dev
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake -k ostro-image-noswupd
+xe1gyq@jessie:~/ostro-os/build$ bitbake -k ostro-image-noswupd
+NOTE: /home/xe1gyq/ostro-os/meta-java/recipes-core/openjdk/openjre-8_72b05.bb: base_contains is deprecated, please use bb.utils.contains instead.
+NOTE: /home/xe1gyq/ostro-os/meta-java/recipes-core/openjdk/openjdk-8_72b05.bb: base_contains is deprecated, please use bb.utils.contains instead.
+NOTE: /home/xe1gyq/ostro-os/meta-java/recipes-core/openjdk/openjdk-8-native_72b05.bb: base_contains is deprecated, please use bb.utils.contains instead.
+NOTE: /home/xe1gyq/ostro-os/meta-java/recipes-core/icedtea/icedtea7-native_2.1.3.bb: base_contains is deprecated, please use bb.utils.contains instead.
+NOTE: /home/xe1gyq/ostro-os/meta-java/recipes-core/icedtea/icedtea7-native_2.1.3.bb: base_contains is deprecated, please use bb.utils.contains instead.
+...
+...
 ```
 ### Issues
 
