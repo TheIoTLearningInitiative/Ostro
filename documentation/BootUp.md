@@ -180,6 +180,9 @@ Agent RequestInput wifi_784b87a53a73_494e46494e4954554d666a7068_managed_psk
 Passphrase? 
 Connected wifi_784b87a53a73_494e46494e4954554d666a7068_managed_psk
 connmanctl> exit
+```
+
+```sh
 root@edison:~# ifconfig
 lo        Link encap:Local Loopback  
           inet addr:127.0.0.1  Mask:255.0.0.0
