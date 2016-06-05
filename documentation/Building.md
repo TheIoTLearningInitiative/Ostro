@@ -189,6 +189,9 @@ Currently 2 running tasks (706 of 1030):
 0: glibc-locale-2.24-r0 do_package_write_ipk_setscene (pid 3247)
 1: u-boot-fw-utils-edison-2014.04-1-r0 do_packagedata_setscene (pid 27968)
 ...
+Currently 1 running tasks (2722 of 2805):
+0: linux-yocto-edison-3.10.98+gitAUTOINC+2e4ace5b68-r0 do_kernel_checkout (pid 21120)
+...
 ```
 ## Issues
 
