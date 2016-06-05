@@ -2,6 +2,10 @@
 
 
 ```sh
+root@edison:~# htop
+```
+
+```sh
   1  [#*                                   0.1%]     Tasks: 17, 1 thr; 1 running
   2  [#*                                   0.1%]     Load average: 0.00 0.01 0.05 
   Mem[||#***                           33/960MB]     Uptime: 05:16:21
