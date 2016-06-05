@@ -7,6 +7,7 @@
    * [Building](documentation/Building.md)
    * [Downloading](documentation/Downloading.md)
    * [Running](documentation/Running.md)
+   * Flashing
 * [Architecture](documentation/Architecture.md)
 * [Sandbox](documentation/Sandbox.md)
 
