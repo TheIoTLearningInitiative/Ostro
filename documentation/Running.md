@@ -1,6 +1,6 @@
 # Running
 
-# Intel Edison, Booting and Installing an Ostro™ OS Image, Host Side
+# Intel Edison, Flashing an Ostro™ OS Image, Host Side
 
 ```sh
 xe1gyq@jessie:~/Downloads/ostro/toFlash$ ./flashall.sh 
