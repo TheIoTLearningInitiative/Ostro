@@ -22,6 +22,6 @@
    * Libraries
 * Subsystems
 * [Application Development](documentation/ApplicationsDevelopment.md)
-   * Python
+   * [Python](documentation/Python.md)
 * [Sandbox](ApplicationsDevelopment.md)
 
