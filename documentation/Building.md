@@ -131,7 +131,8 @@ require conf/distro/include/ostro-os-development.inc
 ```
 
 ```sh
-xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
+xe1gyq@jessie:~/ostro/ostro-os/build$ # old bitbake ostro-image-dev
+xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake -k ostro-image-noswupd
 ```
 ### Issues
 
