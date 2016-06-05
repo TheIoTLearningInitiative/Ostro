@@ -142,9 +142,9 @@ NOTE: /home/xe1gyq/ostro-os/meta-java/recipes-core/icedtea/icedtea7-native_2.1.3
 ...
 Parsing recipes:  19% |############                                                    | ETA:  00:06:32
 ```
-### Issues
+## Issues
 
-#### local.conf editing
+### local.conf editing
 
 ```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
@@ -162,7 +162,7 @@ xe1gyq@jessie:~/ostro/ostro-os/build$ nano conf/local.conf
 #DISTRO ?= "ostro"
 ```
 
-#### libsdl-native
+### libsdl-native
 
 ```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
@@ -185,7 +185,7 @@ xe1gyq@jessie:~/ostro/ostro-os/build$ nano conf/local.conf
 #ASSUME_PROVIDED += "libsdl-native"
 ```
 
-#### clr-systemd-config
+### clr-systemd-config
 
 ```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image
