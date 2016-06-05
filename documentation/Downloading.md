@@ -1,7 +1,7 @@
 
 # Downloading
 
-## Intel Edison, Pre-Built Ostro OS Image
+## Intel Edison, Pre-Built Ostro OS Image, NoSwUpd
 
 ```sh
 xe1gyq@jessie:~/Downloads/ostro$ wget https://download.ostroproject.org/builds/ostro-os/2016-03-23_23-27-58-build-411/images/edison/ostro-image-dev-edison.toflash.tar.bz2
@@ -62,5 +62,51 @@ toFlash/package-list.txt
 toFlash/FlashEdison.json
 toFlash/flashall.bat
 toFlash/flashall.sh
+xe1gyq@jessie:~/Downloads/ostro$ cd toFlash/
+```
+
+## Intel Edison, Pre-Built Ostro OS Image, NoSwUpd
+
+```sh
+xe1gyq@jessie:~/Downloads/ostro$ tar xvf ostro-image-swupd-dev-edison-2016-05-02_00-09-47-build-440.toflash.tar.bz2
+toFlash/
+toFlash/edison_ifwi-dbg-05-dfu.bin
+toFlash/edison_ifwi-dbg-04-dfu.bin
+toFlash/edison_ifwi-dbg-02.bin
+toFlash/edison_dnx_fwr.bin
+toFlash/edison_ifwi-dbg-03.bin
+toFlash/package-list.txt
+toFlash/edison_ifwi-dbg-04.bin
+toFlash/edison_ifwi-dbg-01.bin
+toFlash/filter-dfu-out.js
+toFlash/ostro-image-swupd-dev-edison.update.hddimg
+toFlash/edison_ifwi-dbg-00.bin
+toFlash/edison_ifwi-dbg-01-dfu.bin
+toFlash/edison_dnx_osr.bin
+toFlash/ostro-image-swupd-dev-edison.hddimg
+toFlash/u-boot-edison.img
+toFlash/helper/
+toFlash/helper/images/
+toFlash/helper/images/Edison-breakout-board.png
+toFlash/helper/images/Edison-arduino-blink-led.png
+toFlash/helper/images/Edison-arduino.png
+toFlash/helper/helper.html
+toFlash/u-boot-edison.bin
+toFlash/u-boot-envs/
+toFlash/u-boot-envs/edison-blankrndis.bin
+toFlash/u-boot-envs/edison-blankcdc.bin
+toFlash/u-boot-envs/edison-prod.bin
+toFlash/u-boot-envs/edison-ifwi.bin
+toFlash/flashall.sh
+toFlash/edison_ifwi-dbg-06-dfu.bin
+toFlash/edison_ifwi-dbg-06.bin
+toFlash/edison_ifwi-dbg-05.bin
+toFlash/edison_ifwi-dbg-03-dfu.bin
+toFlash/pft-config-edison.xml
+toFlash/ostro-image-swupd-dev-edison.ext4
+toFlash/FlashEdison.json
+toFlash/edison_ifwi-dbg-00-dfu.bin
+toFlash/edison_ifwi-dbg-02-dfu.bin
+toFlash/flashall.bat
 xe1gyq@jessie:~/Downloads/ostro$ cd toFlash/
 ```
