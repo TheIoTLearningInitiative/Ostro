@@ -106,4 +106,5 @@ root@edison:~# iptables -t mangle -X
 root@edison:~# iptables -P INPUT ACCEPT
 root@edison:~# iptables -P OUTPUT ACCEPT     
 root@edison:~# iptables -P FORWARD ACCEPT    
+root@edison:~# iptables-restore < /home/root/firewall.rules
 ```
