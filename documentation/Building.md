@@ -79,6 +79,9 @@ technical note for more information.
 xe1gyq@jessie:~/ostro/ostro-os/build$ ls
 conf
 xe1gyq@jessie:~/ostro/ostro-os/build$ nano conf/local.conf
+```
+
+```sh
 ...
 #
 # Machine Selection
@@ -105,6 +108,9 @@ MACHINE ?= "edison"
 #PACKAGECONFIG_append_pn-nativesdk-qemu = " sdl"
 #ASSUME_PROVIDED += "libsdl-native"
 ...
+```
+
+```sh
 xe1gyq@jessie:~/ostro/ostro-os/build$ bitbake ostro-image-dev
 ```
 ### Issues
