@@ -200,6 +200,9 @@ Last login: Thu Apr 28 00:41:36 UTC 2016 on tty1
 root@edison:~# 
 ```
 
+# Intel Edison, Failure, Old Version
+
+
 ```sh
 ******************************
 PSH KERNEL VERSION: b0182929
