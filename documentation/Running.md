@@ -1,7 +1,7 @@
 Running
 ==
 
-## Booting and Installing an Ostro™ OS Image, Intel Edison, Host Side
+# Intel Edison, Booting and Installing an Ostro™ OS Image, Host Side
 
 ```sh
 xe1gyq@jessie:~/Downloads/ostro/toFlash$ ./flashall.sh 
