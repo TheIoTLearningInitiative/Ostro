@@ -6,6 +6,9 @@ root@edison:~# localectl
 
        VC Keymap: n/a
       X11 Layout: n/a
+```
+
+```sh
 root@edison:~# timedatectl
       Local time: Sun 2016-06-05 18:24:28 UTC
   Universal time: Sun 2016-06-05 18:24:28 UTC
