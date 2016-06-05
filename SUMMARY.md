@@ -19,6 +19,7 @@
    * [Services](documentation/Services.md)
    * [Logs](Logs.md)
    * Package Management Systems
+   * Libraries
 * Subsystems
 * [Sandbox](documentation/Sandbox.md)
 
