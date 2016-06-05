@@ -6,6 +6,7 @@
 
 - [Ostro Project Homepage](https://ostroproject.org/)
 - [Ostro Github](https://github.com/ostroproject)
+- [Osro Mailing List](https://lists.ostroproject.org/mailman/listinfo/ostro-dev)
 - [Ostro-dev Ostro OS 1.0 Pre-release now available](https://lists.ostroproject.org/pipermail/ostro-dev/2016-March/000000.html)
 - [Ostro™ OS: Version 1.0 Pre-release Notes](https://github.com/ostroproject/ostro-os/releases/tag/v1.0.0-pre)
 - [Open IoT Summit: IoT Devices: Secure Boot and Software Maintenance](http://events.linuxfoundation.org/sites/events/files/slides/-OpenIoT%20Summit%20-%20IoT%20devices-%20secure%20boot%20and%20sw%20maintenance_0.pdf)
