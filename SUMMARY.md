@@ -21,6 +21,7 @@
    * Package Management Systems
    * Libraries
 * Subsystems
-* Application Development
+* [Application Development](documentation/ApplicationsDevelopment.md)
+   * Python
 * [Sandbox](ApplicationsDevelopment.md)
 
