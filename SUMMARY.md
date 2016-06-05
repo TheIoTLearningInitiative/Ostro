@@ -21,7 +21,7 @@
    * [Services](documentation/Services.md)
    * [Logs](documentation/Logs.md)
    * Package Management Systems
-       * SwUpd
+       * [SwUpd](documentation/SwUpd.md)
    * Libraries
 * Subsystems
    * [Power](documentation/Power.md)
