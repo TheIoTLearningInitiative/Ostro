@@ -1,12 +1,12 @@
 # Software Update Mechanism for Ostro™ OS
 
-- [Software Update Mechanism for Ostro™ OS](https://ostroproject.org/documentation/architecture/software-update.html)
-
 > Ostro OS based software can be deployed to a target device in two ways:
 > > Full Disk Flashing
 > > > A new software image is built and installed, completely replacing what was previously present on the device. It can be useful for initializing a device with Ostro OS.
 > > Software Update
 > > > This is a component that Ostro OS borrows from Clear Linux* OS and consists of both a server and client component. The Software Update component is not tied to any specific platform or architecture, as long as the concept of rootfs/filesystem is supported.
+
+[Software Update Mechanism for Ostro™ OS](https://ostroproject.org/documentation/architecture/software-update.html)
 
 # SwUpd
 
