@@ -219,6 +219,16 @@ xe1gyq@jessie:~/ostro-os/build$
 ```
 
 ```sh
+xe1gyq@jessie:~/ostro-os$ ls
+bitbake  meta-appfw                 meta-java          meta-security-isafw  oe-init-build-env
+build    meta-intel                 meta-oic           meta-selftest        oe-init-build-env-memres
+conf     meta-intel-iot-middleware  meta-openembedded  meta-skeleton        README.rst
+doc      meta-intel-iot-security    meta-ostro         meta-soletta         scripts
+LICENSE  meta-iotqa                 meta-ostro-bsp     meta-swupd
+meta     meta-iot-web               meta-ostro-fixes   meta-yocto
+```
+
+```sh
 xe1gyq@jessie:~/ostro-os/build$ ls tmp-glibc/deploy/images/edison/
 bzImage
 bzImage--3.10.98+git0+2e4ace5b68-r0-edison-20160605054055.bin
