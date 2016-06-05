@@ -12,7 +12,7 @@
 
 ## Bundles
 
-Bundles overview
+- [Bundles overview](https://clearlinux.org/documentation/bundles_overview.html)
 
 ```sh
 root@edison:~# swupd
