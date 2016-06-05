@@ -31,6 +31,7 @@ Sections All Documentation
 - Introduction to the Ostro™ Project
 - Ostro™ OS Supported Platforms
 - Ostro™ OS Quick Start Guide
+- Ostro™ OS Contributor Guide
 - Ostro™ Project Access and Community Support Resources
 - Ostro™ OS Architecture
 - Ostro™ OS Project Notes
