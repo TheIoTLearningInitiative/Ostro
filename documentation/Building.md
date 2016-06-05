@@ -80,10 +80,26 @@ xe1gyq@jessie:~/ostro/ostro-os/build$ ls
 conf
 xe1gyq@jessie:~/ostro/ostro-os/build$ nano conf/local.conf
 ...
+#
+# Machine Selection
+#
+# You need to select a specific machine to target the build with. There are a selection
+# of several hardware platforms that are supported:
+#
+# For MinnowBoard and Gigabyte GB-BXBT-3825:
+#MACHINE ?= "intel-corei7-64"
+#
+# For Intel Galileo Gen 2:
+#MACHINE ?= "intel-quark"
+# 
 # For Intel Edison:
 MACHINE ?= "edison"
-...
-#DISTRO ?= "ostro"
+# 
+# For BeagleBone Black:
+#MACHINE ?= "beaglebone"
+# 
+# This sets the default machine to be "intel-corei7-64" if no other machine is selected:
+#MACHINE ??= "intel-corei7-64"
 ...
 #PACKAGECONFIG_append_pn-qemu-native = " sdl"
 #PACKAGECONFIG_append_pn-nativesdk-qemu = " sdl"
