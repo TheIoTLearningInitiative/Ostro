@@ -6,6 +6,7 @@
 * [Build System](documentation/BuildSystem.md)
    * [Building](documentation/Building.md)
        * [Package Management](documentation/PackageManagement.md)
+       * Linux Kernel
    * [Downloading](documentation/Downloading.md)
    * [Flashing](documentation/Flashing.md)
    * [Running](documentation/Running.md)
