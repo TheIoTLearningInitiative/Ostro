@@ -8,11 +8,11 @@
 ```
 
 ```sh
-root@edison:~# curl --verbose -O https://bootstrap.pypa.io/get-pip.py                                  
-* getaddrinfo(3) failed for bootstrap.pypa.io:443                                                      
-* Couldn't resolve host 'bootstrap.pypa.io'                                                            
-* Closing connection 0                                                                                 
-curl: (6) Couldn't resolve host 'bootstrap.pypa.io'                                                    
+root@edison:~# curl --verbose -O https://bootstrap.pypa.io/get-pip.py
+* getaddrinfo(3) failed for bootstrap.pypa.io:443
+* Couldn't resolve host 'bootstrap.pypa.io'
+* Closing connection 0
+curl: (6) Couldn't resolve host 'bootstrap.pypa.io'
 root@edison:~# 
 ```
 
