@@ -218,6 +218,42 @@ Summary: There were 3 WARNING messages shown.
 xe1gyq@jessie:~/ostro-os/build$  
 ```
 
+```sh
+xe1gyq@jessie:~/ostro-os/build$ ls tmp-glibc/deploy/images/edison/
+bzImage
+bzImage--3.10.98+git0+2e4ace5b68-r0-edison-20160605054055.bin
+bzImage-edison.bin
+flashall
+ifwi
+modules--3.10.98+git0+2e4ace5b68-r0-edison-20160605054055.tgz
+modules-edison.tgz
+ostro-image-noswupd-edison-20160605054055.hddimg
+ostro-image-noswupd-edison-20160605054055.rootfs.ext4
+ostro-image-noswupd-edison-20160605054055.rootfs.manifest
+ostro-image-noswupd-edison-20160605054055.rootfs.tar
+ostro-image-noswupd-edison-20160605054055.rootfs.tar.bz2
+ostro-image-noswupd-edison-20160605054055.toflash.tar.bz2
+ostro-image-noswupd-edison-20160605054055.update.hddimg
+ostro-image-noswupd-edison-20160605054055.update.tar.gz
+ostro-image-noswupd-edison.ext4
+ostro-image-noswupd-edison.hddimg
+ostro-image-noswupd-edison.manifest
+ostro-image-noswupd-edison.tar
+ostro-image-noswupd-edison.tar.bz2
+ostro-image-noswupd-edison.toflash.tar.bz2
+ostro-image-noswupd-edison.update.hddimg
+ostro-image-noswupd-edison.update.tar.gz
+README_-_DO_NOT_DELETE_FILES_IN_THIS_DIRECTORY.txt
+u-boot.bin
+u-boot-edison-2014.04-1-r6.bin
+u-boot-edison-2014.04-1-r6.img
+u-boot-edison.bin
+u-boot-edison.img
+u-boot-envs
+u-boot.img
+xe1gyq@jessie:~/ostro-os/build$ 
+```
+
 ## Issues
 
 ### local.conf editing, building production and development images
