@@ -786,4 +786,5 @@ root@edison:~# dmesg
 [  672.017528] CFG80211-ERROR) wl_escan_handler : reason[0xffffffff]
 [  672.041560] CFG80211-ERROR) wl_escan_handler : escan is not ready ndev f587d800 drv_status 0x0 e_ty4
 [  790.134798] IPv6: wlan0: IPv6 duplicate address fdf8:113:a82b:3a00:7a4b:87ff:fea5:3a73 detected!
+root@edison:~# 
 ```
