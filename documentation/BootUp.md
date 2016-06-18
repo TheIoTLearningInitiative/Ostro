@@ -52,6 +52,13 @@ connmanctl> exit
 ```
 
 ```sh
+root@edison:~# connmanctl
+connmanctl> enable wifi
+connmanctl> exit
+```
+
+
+```sh
 root@edison:~# ifconfig
 lo        Link encap:Local Loopback  
           inet addr:127.0.0.1  Mask:255.0.0.0
