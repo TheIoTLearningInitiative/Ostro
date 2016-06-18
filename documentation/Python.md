@@ -153,5 +153,6 @@ gcc-5.3.0.tar.bz2         100%[====================================>]  91.02M   
 2016-06-18 10:05:24 (575 KB/s) - 'gcc-5.3.0.tar.bz2' saved [95441837/95441837]
 
 root@edison:~# tar xvf gcc-5.3.0.tar.bz2 
-
+...
+Insufficient disk space
 ```
