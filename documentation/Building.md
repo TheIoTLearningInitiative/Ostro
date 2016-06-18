@@ -97,7 +97,7 @@ MACHINE ?= "edison"
 #MACHINE ?= "beaglebone"
 # 
 # This sets the default machine to be "intel-corei7-64" if no other machine is selected:
-#MACHINE ??= "intel-corei7-64"
+MACHINE ??= "intel-corei7-64"
 ...
 #PACKAGECONFIG_append_pn-qemu-native = " sdl"
 #PACKAGECONFIG_append_pn-nativesdk-qemu = " sdl"
