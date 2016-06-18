@@ -104,3 +104,13 @@ runlevel6.target                        wpa_supplicant@.service
 serial-getty@.service
 root@edison:~# 
 ```
+
+```sh
+root@edison:~# systemctl stop iptables.service
+root@edison:~# systemctl start iptables.service
+root@edison:~# systemctl status iptables.service
+```
+
+```sh
+
+```
