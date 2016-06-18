@@ -75,7 +75,7 @@ root@edison:~#
 ```
 
 ```sh
-swupd check-update -u example.com/updates
-swupd update -u example.com/updates
-swupd verify -u example.com/updates
+root@edison:~# swupd check-update -u example.com/updates
+root@edison:~# swupd update -u example.com/updates
+root@edison:~# swupd verify -u example.com/updates
 ```
