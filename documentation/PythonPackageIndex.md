@@ -67,7 +67,12 @@ in /etc/ssl/certs/ca-certificates.crt
 100 1488k  100 1488k    0     0   279k      0  0:00:05  0:00:05 --:--:--  348k                         
 * Connection #0 to host bootstrap.pypa.io left intact
 root@edison:~# 
+```
 
+```sh
+root@edison:~# ls
+get-pip.py  pip                            
+root@edison:~# python get-pip.py
 ```
 
 ```sh
