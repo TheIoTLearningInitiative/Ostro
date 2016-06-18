@@ -55,6 +55,12 @@ connmanctl> exit
 
 ## Configuration File
 
+```sh
+root@edison:~# connmanctl
+connmanctl> enable wifi
+connmanctl> exit
+```
+
 ```
 root@edison:~# vi /var/lib/connman/hotspot.config
 ```
@@ -72,12 +78,6 @@ Phase2 = MSCHAPV2
 Identity = <username>
 Passphrase = <contasena>
 ````
-
-```sh
-root@edison:~# connmanctl
-connmanctl> enable wifi
-connmanctl> exit
-```
 
 ## Check Ip Address
 
