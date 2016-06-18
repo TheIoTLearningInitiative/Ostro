@@ -72,6 +72,7 @@ Phase2 = MSCHAPV2
 Identity = <username>
 Passphrase = <contasena>
 ````
+
 ```sh
 root@edison:~# connmanctl
 connmanctl> enable wifi
