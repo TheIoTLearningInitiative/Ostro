@@ -17,8 +17,8 @@ root@edison:~#
 ```
 
 ```sh
-root@edison:~# curl --verbose -O https://bootstrap.pypa.io/get-pip.py                                  
-*   Trying 23.235.40.175...                                                                            
+root@edison:~# curl --verbose -O https://bootstrap.pypa.io/get-pip.py
+*   Trying 23.235.40.175...
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current                        
                                  Dload  Upload   Total   Spent    Left  Speed                          
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to bootstrap.
