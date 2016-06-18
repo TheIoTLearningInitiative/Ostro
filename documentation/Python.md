@@ -33,4 +33,7 @@ Traceback (most recent call last):
 ImportError: No module named paho.mqtt.client
 root@edison:~/TheIoTLearningInitiative/InternetOfThings101# pip install -r requirements.pip            
 Collecting psutil (from -r requirements.pip (line 1))
+...
+error: command 'i686-ostro-linux-gcc' failed with exit status 1
+...
 ```
