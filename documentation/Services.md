@@ -112,5 +112,13 @@ root@edison:~# systemctl status iptables.service
 ```
 
 ```sh
+[[0;1;32m��●[[0m iptables.service - iptables firewall
+   Loaded: loaded (/lib/systemd/system/iptables.service; enabled; vendor preset: enabled)
+   Active: [[0;1;32mactive (exited)[[0m since Sat 2016-06-18 09:17:59 UTC; 6s ago
+  Process: 417 ExecStart=/usr/sbin/iptables-restore /usr/share/iptables-settings/iptables.rules (code=e
+xited, status=0/SUCCESS)
+ Main PID: 417 (code=exited, status=0/SUCCESS)
 
+Jun 18 09:17:59 edison systemd[1]: Starting iptables firewall...
+Jun 18 09:17:59 edison systemd[1]: Started iptables firewall.
 ```
