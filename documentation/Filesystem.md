@@ -26,6 +26,21 @@ root@edison:~#
 ```
 
 ```sh
+root@edison:~# df -h                                                                                   
+Filesystem                Size      Used Available Use% Mounted on                                     
+/dev/root                 1.8G      1.1G    606.9M  65% /                                              
+devtmpfs                480.0M         0    480.0M   0% /dev                                           
+tmpfs                   480.3M         0    480.3M   0% /dev/shm                                       
+tmpfs                   480.3M     12.5M    467.7M   3% /run                                           
+tmpfs                   480.3M         0    480.3M   0% /sys/fs/cgroup                                 
+tmpfs                   480.3M         0    480.3M   0% /tmp                                           
+tmpfs                   480.3M      8.0K    480.3M   0% /var/volatile                                  
+/dev/mmcblk0p5         1003.0K     19.0K    913.0K   2% /factory                                       
+tmpfs                    96.1M         0     96.1M   0% /run/user/0                                    
+root@edison:~# 
+```
+
+```sh
 root@edison:~# mount
 /dev/mmcblk0p8 on / type ext4 (rw,nodev,noatime,discard,noauto_da_alloc,i_version,data=ordered)
 devtmpfs on /dev type devtmpfs (rw,relatime,size=491528k,nr_inodes=122882,mode=755)
