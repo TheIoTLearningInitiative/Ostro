@@ -38,6 +38,8 @@ error: command 'i686-ostro-linux-gcc' failed with exit status 1
 ...
 ```
 
+Install libz-dev
+
 ```sh
 root@edison:~/TheIoTLearningInitiative/InternetOfThings101# cat requirements.manual 
 wget https://launchpad.net/python-weather-api/trunk/0.3.8/+download/pywapi-0.3.8.tar.gz
