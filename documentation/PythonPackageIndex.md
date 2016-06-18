@@ -73,6 +73,16 @@ root@edison:~#
 root@edison:~# ls
 get-pip.py  pip                            
 root@edison:~# python get-pip.py
+root@edison:~# python get-pip.py
+Collecting pip
+  Downloading pip-8.1.2-py2.py3-none-any.whl (1.2MB)
+    100% |################################| 1.2MB 77kB/s
+Collecting wheel
+  Downloading wheel-0.29.0-py2.py3-none-any.whl (66kB)
+    100% |################################| 71kB 484kB/s   
+Installing collected packages: pip, wheel
+Successfully installed pip-8.1.2 wheel-0.29.0              
+root@edison:~# easy_install pip
 ```
 
 ```sh
