@@ -104,6 +104,8 @@ wlan0     Link encap:Ethernet  HWaddr 78:4B:87:A5:3A:73
 root@edison:~# 
 ```
 
+# Ping Google
+
 ```sh
 root@edison:~# ping google.com
 PING google.com (216.58.193.46): 56 data bytes
