@@ -138,3 +138,19 @@ collect2: error: ld returned 1 exit status
 error: command 'i686-ostro-linux-gcc' failed with exit status 1                                        
 root@edison:~/TheIoTLearningInitiative/psutil# 
 ```
+
+```sh
+root@edison:~# wget http://mirrors-usa.go-parts.com/gcc/releases/gcc-5.3.0/gcc-5.3.0.tar.bz2
+--2016-06-18 10:02:41--  http://mirrors-usa.go-parts.com/gcc/releases/gcc-5.3.0/gcc-5.3.0.tar.bz2
+Resolving mirrors-usa.go-parts.com... 68.233.45.189
+Connecting to mirrors-usa.go-parts.com|68.233.45.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95441837 (91M) [application/octet-stream]
+Saving to: 'gcc-5.3.0.tar.bz2'
+
+gcc-5.3.0.tar.bz2         100%[====================================>]  91.02M   477KB/s    in 2m 42s  
+
+2016-06-18 10:05:24 (575 KB/s) - 'gcc-5.3.0.tar.bz2' saved [95441837/95441837]
+
+root@edison:~# tar xvf gcc-5.3.0.tar.bz2 
+```
