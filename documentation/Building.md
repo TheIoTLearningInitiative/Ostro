@@ -16,11 +16,6 @@
 ## Intel Edison
 
 ```sh
-xe1gyq@jessie:~$ mkdir ostro
-xe1gyq@jessie:~$ cd ostro/
-```
-
-```sh
 xe1gyq@jessie:~/$ git clone https://github.com/ostroproject/ostro-os.git
 Cloning into 'ostro-os'...
 remote: Counting objects: 391671, done.
