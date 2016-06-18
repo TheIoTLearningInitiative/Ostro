@@ -51,7 +51,7 @@ root@edison:~/TheIoTLearningInitiative/InternetOfThings101# sh requirements.manu
 ```
 
 ```
-root@edison:~/TheIoTLearningInitiative/InternetOfThings101# pip install paho-mqtt          
+root@edison:~/TheIoTLearningInitiative/InternetOfThings101# pip install paho-mqtt
 Collecting paho-mqtt                     
 Installing collected packages: paho-mqtt
 Successfully installed paho-mqtt-1.2     
