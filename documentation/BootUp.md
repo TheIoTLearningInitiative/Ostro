@@ -26,6 +26,8 @@ Linux edison 3.10.98-yocto-standard #1 SMP PREEMPT Fri Apr 29 15:11:11 UTC 2016 
 root@edison:~# 
 ```
 
+## Manual Configuration
+
 [Configuring an IP Address in the Ostro™ OS](https://ostroproject.org/documentation/howtos/ip-address-config.html)
 
 ```sh
@@ -51,7 +53,7 @@ Connected wifi_784b87a53a73_494e46494e4954554d666a7068_managed_psk
 connmanctl> exit
 ```
 
-# 
+## Configuration File
 
 ```
 root@edison:~# vi /var/lib/connman/hotspot.config
@@ -76,6 +78,7 @@ connmanctl> enable wifi
 connmanctl> exit
 ```
 
+## Check Ip Address
 
 ```sh
 root@edison:~# ifconfig
