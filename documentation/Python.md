@@ -60,6 +60,7 @@ Successfully installed paho-mqtt-1.2
 root@edison:~/TheIoTLearningInitiative/InternetOfThings101# 
 ```
 
+```sh
 root@edison:~/TheIoTLearningInitiative# git clone https://github.com/giampaolo/psutil.git
 Cloning into 'psutil'...
 remote: Counting objects: 18500, done.
@@ -136,3 +137,4 @@ L/usr/lib -lpython2.7 -o build/lib.linux-i686-2.7/psutil/_psutil_linux.so
 collect2: error: ld returned 1 exit status                                                             
 error: command 'i686-ostro-linux-gcc' failed with exit status 1                                        
 root@edison:~/TheIoTLearningInitiative/psutil# 
+```
