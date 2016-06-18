@@ -37,3 +37,15 @@ Collecting psutil (from -r requirements.pip (line 1))
 error: command 'i686-ostro-linux-gcc' failed with exit status 1
 ...
 ```
+
+```sh
+root@edison:~/TheIoTLearningInitiative/InternetOfThings101# cat requirements.manual 
+wget https://launchpad.net/python-weather-api/trunk/0.3.8/+download/pywapi-0.3.8.tar.gz
+tar zxvf pywapi-0.3.8.tar.gz
+cd pywapi-0.3.8
+python setup.py build
+python setup.py install
+cd ..
+rm -rf pywapi-0.3.8*
+root@edison:~/TheIoTLearningInitiative/InternetOfThings101# sh requirements.manual 
+```
