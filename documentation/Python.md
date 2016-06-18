@@ -38,7 +38,7 @@ error: command 'i686-ostro-linux-gcc' failed with exit status 1
 ...
 ```
 
-Install libz-dev
+Install libz-dev, how?!
 
 ```sh
 root@edison:~/TheIoTLearningInitiative/InternetOfThings101# cat requirements.manual 
