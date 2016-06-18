@@ -1,8 +1,6 @@
 Sandbox
 ==
 
-{% include "Running.md" %}
-
 ## Issues
 
 ### local.conf editing, building production and development images
@@ -80,3 +78,6 @@ Summary: 1 task failed:
   /home/xe1gyq/ostro/ostro-os/meta/recipes-core/sysvinit/sysvinit_2.88dsf.bb, do_install
 Summary: There was 1 ERROR message shown, returning a non-zero exit code.
 ```
+
+
+{% include "Running.md" %}
