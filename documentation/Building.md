@@ -21,7 +21,7 @@ xe1gyq@jessie:~$ cd ostro/
 ```
 
 ```sh
-xe1gyq@jessie:~/ostro$ git clone https://github.com/ostroproject/ostro-os.git
+xe1gyq@jessie:~/$ git clone https://github.com/ostroproject/ostro-os.git
 Cloning into 'ostro-os'...
 remote: Counting objects: 391671, done.
 remote: Compressing objects: 100% (3054/3054), done.
@@ -33,8 +33,8 @@ Checking out files: 100% (9520/9520), done.
 ```
 
 ```sh
-xe1gyq@jessie:~/ostro$ cd ostro-os/
-xe1gyq@jessie:~/ostro/ostro-os$ source oe-init-build-env
+xe1gyq@jessie:~/$ cd ostro-os/
+xe1gyq@jessie:~/ostro-os$ source oe-init-build-env
 You had no conf/local.conf file. This configuration file has therefore been
 created for you with some default values. You may wish to edit it to, for
 example, select a different MACHINE (target hardware). See conf/local.conf
@@ -76,9 +76,9 @@ technical note for more information.
 ```
 
 ```sh
-xe1gyq@jessie:~/ostro/ostro-os/build$ ls
+xe1gyq@jessie:~/ostro-os/build$ ls
 conf
-xe1gyq@jessie:~/ostro/ostro-os/build$ nano conf/local.conf
+xe1gyq@jessie:~/ostro-os/build$ nano conf/local.conf
 ```
 
 ```sh
