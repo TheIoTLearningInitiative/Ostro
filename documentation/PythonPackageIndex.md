@@ -22,24 +22,24 @@ root@edison:~# curl --verbose -O https://bootstrap.pypa.io/get-pip.py
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current                        
                                  Dload  Upload   Total   Spent    Left  Speed                          
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to bootstrap.
-pypa.io (23.235.40.175) port 443 (#0)                                                                  
+pypa.io (23.235.40.175) port 443 (#0)        
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* found 173 certificates 
-in /etc/ssl/certs/ca-certificates.crt                                                                  
-* ALPN, offering http/1.1                                                                              
-* SSL connection using TLS1.2 / ECDHE_RSA_AES_128_GCM_SHA256                                           
-*        server certificate verification OK                                                            
-*        server certificate status verification SKIPPED                                                
-*        common name: *.c.ssl.fastly.net (matched)                                                     
-*        server certificate expiration date OK                                                         
-*        server certificate activation date OK                                                         
-*        certificate public key: RSA                                                                   
-*        certificate version: #3                                                                       
-*        subject: C=US,ST=California,L=San Francisco,O=Fastly\, Inc.,CN=*.c.ssl.fastly.net             
-*        start date: Fri, 22 Apr 2016 20:04:06 GMT                                                     
-*        expire date: Sat, 29 Oct 2016 21:57:12 GMT                                                    
+in /etc/ssl/certs/ca-certificates.crt                    
+* ALPN, offering http/1.1                 
+* SSL connection using TLS1.2 / ECDHE_RSA_AES_128_GCM_SHA256
+*        server certificate verification OK
+*        server certificate status verification SKIPPED
+*        common name: *.c.ssl.fastly.net (matched)
+*        server certificate expiration date OK
+*        server certificate activation date OK
+*        certificate public key: RSA            
+*        certificate version: #3
+*        subject: C=US,ST=California,L=San Francisco,O=Fastly\, Inc.,CN=*.c.ssl.fastly.net
+*        start date: Fri, 22 Apr 2016 20:04:06 GMT
+*        expire date: Sat, 29 Oct 2016 21:57:12 GMT
 *        issuer: C=BE,O=GlobalSign nv-sa,CN=GlobalSign CloudSSL CA - SHA256 - G3                       
-*        compression: NULL                                                                             
-* ALPN, server accepted to use http/1.1                                                                
+*        compression: NULL     
+* ALPN, server accepted to use http/1.1                   
 > GET /get-pip.py HTTP/1.1                   
 > Host: bootstrap.pypa.io                    
 > User-Agent: curl/7.47.1                                
