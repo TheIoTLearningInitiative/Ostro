@@ -51,6 +51,25 @@ Connected wifi_784b87a53a73_494e46494e4954554d666a7068_managed_psk
 connmanctl> exit
 ```
 
+# 
+
+```
+root@edison:~# vi /var/lib/connman/hotspot.config
+```
+
+```sh
+[global]
+Name = EmployeeHotspot
+Description = Employee hotspot
+
+[service_peap]
+Type = wifi
+Name = EmployeeHotspot
+EAP = peap
+Phase2 = MSCHAPV2
+Identity = <username>
+Passphrase = <contasena>
+````
 ```sh
 root@edison:~# connmanctl
 connmanctl> enable wifi
