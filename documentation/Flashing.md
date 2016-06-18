@@ -1,5 +1,8 @@
 # Flashing
 
+
+[Flashing the firmware on a system with Windows (manual process)](https://software.intel.com/en-us/flashing-firmware-on-your-intel-edison-board-windows)
+
 # Intel Edison, Host Side
 
 ```sh
