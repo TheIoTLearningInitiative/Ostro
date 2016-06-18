@@ -104,7 +104,7 @@ wlan0     Link encap:Ethernet  HWaddr 78:4B:87:A5:3A:73
 root@edison:~# 
 ```
 
-# Ping Google
+## Ping Google
 
 ```sh
 root@edison:~# ping google.com
